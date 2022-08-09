@@ -1,20 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
 @font-face {
-  font-family: Futura;
-  src: url('../FuturaStdRegular.ttf') format("truetype");
-  font-weight: normal;
-}
-
-body {
-  background: rgb(235, 235, 235);
-  font-weight: 400;
   font-family: 'Futura';
+  src: url(../FuturaStdRegular.ttf);
+  format: "Truetype"
 }
-
-h1 {
-  letter-spacing: 3px;
+body {
+  font-family: 'Futura';
   text-transform: uppercase;
-  color: rgb(31, 31, 31);
+  letter-spacing: 3px;
 }
 
 /*# sourceMappingURL=styles.css.map */
